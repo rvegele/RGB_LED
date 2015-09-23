@@ -25,7 +25,6 @@ int mode = 0;
 // getRGB function stores RGB values in this array
 // we use these values for the red, blue, green led. 
 int rgb_colors[3]; 
-// 256 values for conversion
 const byte dim_curve[] = {
     0,   1,   1,   2,   2,   2,   2,   2,   2,   3,   3,   3,   3,   3,   3,   3,
     3,   3,   3,   3,   3,   3,   3,   4,   4,   4,   4,   4,   4,   4,   4,   4,
